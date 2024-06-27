@@ -1,11 +1,11 @@
 {
 	"setting": {
-		"options": "Options",
-		"plugin": "Plugin",
-		"builtin-plugins": "Core plugins",
-		"plugin-options": "Plugin options",
-		"folder-path-example-placeholder": "Example: folder 1/folder 2",
-		"file-path-example-placeholder": "Example: folder/note",
+		"options": "تنظیمات",
+		"plugin": "افزونه‌ها",
+		"builtin-plugins": "افزونه‌های اصلی",
+		"plugin-options": "تنظیماتِ افزونه‌ها",
+		"folder-path-example-placeholder": "نمونه: پوشه‌ی ۱/پوشه‌ی ۲",
+		"file-path-example-placeholder": "نمونه: پوشه/یادداشت",
 		"msg-restart-required": "Changing this option requires a restart to take effect.",
 		"editor": {
 			"name": "Editor",
