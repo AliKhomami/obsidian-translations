@@ -66,5 +66,7 @@ HTML: اچ‌تی‌ام‌ال
 CSS: سی‌اس‌اس
 command: فرمان
 file: پرونده
+callout: واگویه
+quote: نقل‌قول
 
 
