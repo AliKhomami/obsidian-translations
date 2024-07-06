@@ -72,5 +72,8 @@ alias: دگرنام
 text: متن
 property: ویژگی
 frontmatter: پیش‌درآمد
+thumbnail: تصویرک
+copy: رونوشت
+backlink: پشت‌وند
 
 
