@@ -2102,19 +2102,19 @@
 		"label-command": "Table: {{command}}"
 	},
 	"callout": {
-		"option-type": "Callout type",
+		"option-type": "نوع واگویه",
 		"type": {
-			"info": "Info",
-			"important": "Important",
-			"tip": "Tip",
-			"success": "Success",
-			"question": "Question",
-			"warning": "Warning",
-			"quote": "Quote",
-			"example": "Example"
+			"info": "اطلاعات",
+			"important": "مهم",
+			"tip": "نکته",
+			"success": "موفقیت",
+			"question": "پرسش",
+			"warning": "هشدار",
+			"quote": "نقل‌قول",
+			"example": "نمونه"
 		},
-		"option-other": "Other...",
-		"option-other-placeholder": "Callout type..."
+		"option-other": "دیگر...",
+		"option-other-placeholder": "نوع واگویه..."
 	},
 	"nouns": {
 		"count": "{{count}}",
