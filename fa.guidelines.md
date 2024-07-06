@@ -68,5 +68,9 @@ command: فرمان
 file: پرونده
 callout: واگویه
 quote: نقل‌قول
+alias: دگرنام
+text: متن
+property: ویژگی
+frontmatter: پیش‌درآمد
 
 

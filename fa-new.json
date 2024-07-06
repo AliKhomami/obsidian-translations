@@ -2049,33 +2049,33 @@
 	},
 	"properties": {
 		"types": {
-			"option-multitext": "List",
-			"option-unknown": "Unknown",
-			"option-text": "Text",
-			"option-aliases": "Aliases",
-			"option-tags": "Tags",
-			"option-date": "Date",
-			"option-datetime": "Date & time",
-			"option-number": "Number",
-			"option-checkbox": "Checkbox"
+			"option-multitext": "فهرست",
+			"option-unknown": "نامعلوم",
+			"option-text": "متن",
+			"option-aliases": "دگرنام",
+			"option-tags": "برچسب",
+			"option-date": "تاریخ",
+			"option-datetime": "تاریخ و زمان",
+			"option-number": "شماره",
+			"option-checkbox": "تیک‌زدنی"
 		},
 		"value-suggestion": {
-			"key-link-note": "Type [[",
-			"instruction-link-note": "to link note",
-			"instruction-dismiss": "to dismiss"
+			"key-link-note": "]] بنویسید",
+			"instruction-link-note": "برای پیوند زدن به یادداشت",
+			"instruction-dismiss": "برای لغو"
 		},
-		"option-property-type": "Property type",
-		"msg-empty-property-name": "Property name cannot be empty.",
-		"msg-duplicate-property-name": "Property already exists",
-		"msg-invalid-tag": "Invalid tag name",
-		"msg-invalid-number": "Invalid number",
-		"msg-invalid-properties": "Failed to read properties.",
-		"label-no-value": "No value",
-		"label-heading": "Properties",
-		"label-invalid-yaml-marker": "Syntax error. Your frontmatter is invalid.",
-		"label-add-property-button": "Add property",
-		"label-type-mismatch-warning": "Type mismatch, expected {{type}}",
-		"label-migration-warning-desc": "Are you sure you want to change the type? Some of the data associated with this property key is incompatible."
+		"option-property-type": "نوع ویژگی",
+		"msg-empty-property-name": ".نامِ ویژگی نمی‌تواند خالی باشد",
+		"msg-duplicate-property-name": ".این ویژگی هم‌اکنون هم موجود است",
+		"msg-invalid-tag": "نامِ نامعتبر برای برچسب",
+		"msg-invalid-number": "عدد نامعتبر",
+		"msg-invalid-properties": ".خواندنِ ویژگی‌ها شکست خورد",
+		"label-no-value": "بدون مقدار",
+		"label-heading": "ویژگی‌ها",
+		"label-invalid-yaml-marker": "خطای نحو. پیش‌درآمد نامعتبر است.",
+		"label-add-property-button": "افزودن ویژگی",
+		"label-type-mismatch-warning": "ناسازگاریِ نوع، موردِانتظار {{type}}",
+		"label-migration-warning-desc": ".آیا از تغییرِ نوع مطمئنید؟ شماری از داده‌های مرتبط با این کلیدِ ویژگی ناسازگارند"
 	},
 	"table": {
 		"label-column": "ستون",
