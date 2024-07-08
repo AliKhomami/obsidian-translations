@@ -111,3 +111,5 @@ share: هم‌رسانی
 unfold: وا کردن
 release note: تغییرات‌نامه
 ribbon: روبان
+undo: واگرد
+redo: ازنو
