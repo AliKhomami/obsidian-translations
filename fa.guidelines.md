@@ -98,7 +98,7 @@ section: بخش
 tag: برچسب
 clipboard: حافظه
 
-dismiss: بستن
+dismiss: خروج
 هنوز مطمئن نیستم.
 
 کامای آکسفورد

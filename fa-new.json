@@ -1270,17 +1270,17 @@
 			"label-update-available": "Update available"
 		},
 		"command-palette": {
-			"name": "Command palette",
-			"desc": "Type a command to invoke it. No need to use the UI or remember the shortcut.",
-			"action-open": "Open command palette",
-			"instruction-navigate": "to navigate",
-			"instruction-use": "to use",
-			"instruction-dismiss": "to dismiss",
-			"label-no-commands": "No commands found.",
-			"prompt-type-command": "Type a command...",
-			"label-pinned-commands": "Pinned commands",
-			"option-add-new-pin": "New pinned command",
-			"option-add-new-pin-description": "Pinned commands will appear at the top of all commands when no search query is present."
+			"name": "فرمان‌دان",
+			"desc": "فراخواندنِ فرمان‌ها با تایپ؛ دیگر نیازی نیست از رابطِ‌کاربری استفاده کنید یا میانبرِ صفحه‌کلیدِ فرمان‌ها را بلد باشید.",
+			"action-open": "گشودنِ فرمان‌دان",
+			"instruction-navigate": "برای جابه‌جایی",
+			"instruction-use": "برای استفاده",
+			"instruction-dismiss": "برای خروج",
+			"label-no-commands": ".فرمانی یافت نشد",
+			"prompt-type-command": "یک فرمان بنویسید...",
+			"label-pinned-commands": "فرمان‌های سنجاق‌شده",
+			"option-add-new-pin": "فرمانِ سنجاق‌شده‌ی نو",
+			"option-add-new-pin-description": "اگر چیزی جست‌وجو نکرده باشید، فرمان‌های سنجاق‌شده بالای همه‌ی فرمان‌های دیگر نمایش داده می‌شود."
 		},
 		"markdown-format-importer": {
 			"name": "Markdown format importer",
