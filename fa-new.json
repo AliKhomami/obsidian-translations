@@ -1188,14 +1188,14 @@
 			"action-open-daily-note": "Open daily note"
 		},
 		"page-preview": {
-			"name": "Page preview",
-			"desc": "Preview a note when hovering an internal link. Ctrl/Cmd + hover in editor mode.",
-			"label-empty-attachment": "“{{linktext}}” could not be found.",
-			"label-empty-note": "\"{{linktext}}\" is not created yet. Click to create.",
-			"label-source-editor": "Editor",
-			"label-source-preview": "Preview",
-			"label-source-search": "Search, Backlinks, and Outgoing links",
-			"label-require-mod": "Require {{key}} to trigger page preview on hover"
+			"name": "پیش‌نمایشِ صفحه",
+			"desc": "وقتی با موس روی یک پیوندِ درونی می‌ایستید، پیش‌نمایشی نشان داده می‌شود. برای استفاده از این قابلیت، در حالتِ ویرایشگر کلیدِ Ctrl/Cmd را نگه دارید.",
+			"label-empty-attachment": "“{{linktext}}” یافت نشد.",
+			"label-empty-note": "\"{{linktext}}\" هنوز ساخته نشده است. برای ساختنِ کلیک کنید.",
+			"label-source-editor": "ویرایشگر",
+			"label-source-preview": "پیش‌نمایش",
+			"label-source-search": "جست‌وجو، پشت‌وندها، و پیوندهای برون‌رو",
+			"label-require-mod": "کلیدِ {{key}} برای فعّال کردنِ پیش‌نمایشِ صفحه وقتی با موس رویش می‌روید، لازم است."
 		},
 		"bookmarks": {
 			"name": "Bookmarks",
