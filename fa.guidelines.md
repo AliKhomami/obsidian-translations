@@ -107,3 +107,4 @@ dismiss: خروج
 screenshot: روگرفت
 toggle: روشن/خاموش کردن
 outline:نمای کلّی
+share: هم‌رسانی
