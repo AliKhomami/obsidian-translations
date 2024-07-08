@@ -108,3 +108,6 @@ screenshot: روگرفت
 toggle: روشن/خاموش کردن
 outline:نمای کلّی
 share: هم‌رسانی
+unfold: وا کردن
+release note: تغییرات‌نامه
+ribbon: روبان
