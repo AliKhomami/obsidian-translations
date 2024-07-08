@@ -568,13 +568,13 @@
 			"toggle-quote": "Quote"
 		},
 		"empty-state": {
-			"no-file-open": "No file is open",
-			"create-new-file": "Create new file",
-			"go-to-file": "Go to file",
-			"see-recent-files": "See recent files",
-			"close": "Close",
-			"unknown-pane-title": "Plugin no longer active",
-			"unknown-pane-desc": "The plugin that created this pane ({{type}}) has gone away"
+			"no-file-open": "پرونده‌ای باز نیست",
+			"create-new-file": "ساختنِ پرونده‌ی نو",
+			"go-to-file": "رفتن به پرونده",
+			"see-recent-files": "دیدنِ پرونده‌های اخیر",
+			"close": "بستن",
+			"unknown-pane-title": "افزونه دیگر فعّال نیست",
+			"unknown-pane-desc": "افزونه‌ای که این برگ را ساخته ({{type}}) ناموجود است"
 		},
 		"menu": {
 			"edit-view": "Edit (Ctrl/Cmd+Click to edit in new pane)",
@@ -626,10 +626,10 @@
 			"open-linked-view": "Open linked view"
 		},
 		"tooltip": {
-			"click-to-expand": "Click to expand",
-			"click-to-collapse": "Click to collapse",
-			"alias": "Alias",
-			"not-created-yet": "Not created yet, select to create"
+			"click-to-expand": "کلیک برای گستردن",
+			"click-to-collapse": "کلیک برای جمع کردن",
+			"alias": "دگرنام",
+			"not-created-yet": "هنوز ساخته نشده، برای ساختن انتخاب کنید"
 		},
 		"start-screen": {
 			"label-version": "Version",
@@ -686,49 +686,49 @@
 			"tooltip-shared-vault": "This is a remote vault shared with you."
 		},
 		"starter-content": {
-			"welcome-filename": "Welcome",
+			"welcome-filename": "خوش آمدید",
 			"welcome-file-content": "This is your new *vault*.\n\nMake a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!\n\nWhen you're ready, delete this note and make the vault your own."
 		},
 		"drag-and-drop": {
-			"insert-link-here": "Insert link here",
-			"insert-links-here": "Insert links here",
-			"move-into-folder": "Move into \"{{folder}}\"",
-			"star-this-file": "Star this file",
-			"star-these-files": "Star these files",
-			"open-in-this-tab": "Open in this tab",
-			"open-as-tab": "Open as new tab"
+			"insert-link-here": "پیوند همین‌جا درج شود",
+			"insert-links-here": "پیوندها همین‌جا درج شوند",
+			"move-into-folder": "ریختن در \"{{folder}}\"",
+			"star-this-file": "ستاره کردنِ این پرونده",
+			"star-these-files": "ستاره کردنِ این پرونده‌ها",
+			"open-in-this-tab": "گشودن در همین زبانه",
+			"open-as-tab": "گشودن در زبانه‌ای نو"
 		},
 		"window": {
-			"maximize": "Maximize",
-			"minimize": "Minimize",
-			"restore-down": "Restore down",
-			"close-window": "Close window",
-			"go-back": "Go back",
-			"go-forward": "Go forward"
+			"maximize": "بزرگ کردنِ پنجره",
+			"minimize": "کوچک کردنِ پنجره",
+			"restore-down": "بازنشاندنِ پنجره",
+			"close-window": "بستنِ پنجره",
+			"go-back": "عقب‌گرد",
+			"go-forward": "پیش‌رفت"
 		},
 		"start-up": {
-			"loading-obsidian": "Loading Obsidian...",
-			"obsidian-load-error": "An error occurred while loading Obsidian.",
-			"button-reload-app": "Reload app",
-			"button-reload-app-in-safe-mode": "Reload app in safe mode",
-			"button-open-another-vault": "Open another vault",
-			"loading-components": "Loading components...",
-			"loading-plugins": "Loading plugins...",
-			"loading-vault": "Loading vault...",
-			"msg-failed-to-load-vault": "Failed to load vault: ",
-			"loading-cache": "Loading cache...",
-			"loading-workspace": "Loading workspace..."
+			"loading-obsidian": "بارگذاریِ اُبسیدین...",
+			"obsidian-load-error": "هنگامِ بارگذاریِ اُبسیدین خطایی رخ داد.",
+			"button-reload-app": "باز و بستنِ برنامه",
+			"button-reload-app-in-safe-mode": "بارگذاریِ برنامه در حالتِ امن",
+			"button-open-another-vault": "گشودنِ خزانه‌ای دیگر",
+			"loading-components": "بارگذاریِ سازه‌ها...",
+			"loading-plugins": "بارگذاریِ افزونه‌ها...",
+			"loading-vault": "بارگذاریِ خزانه...",
+			"msg-failed-to-load-vault": "بارگذاریِ خزانه به مشکل برخورد: ",
+			"loading-cache": "بارگذاریِ حافظهٔ پنهان...",
+			"loading-workspace": "بارگذاریِ فضای کاری..."
 		},
 		"mobile": {
-			"action-import": "Import into vault",
-			"action-insert-text-desc": "Add text to file:",
-			"action-choose-file-to-insert": "Choose a file to insert",
-			"action-insert-text-into-file": "Insert text into {{filename}}",
-			"action-insert-link-into-file": "Insert link into {{filename}}",
-			"msg-importing": "Importing...",
-			"msg-import-success": "Import success",
-			"msg-failed-to-import-file": "Failed to import file {{filename}}",
-			"msg-back-again-to-exit": "Press back again to exit."
+			"action-import": "وارد کردن به خزانه",
+			"action-insert-text-desc": "افزودنِ متن به پرونده:",
+			"action-choose-file-to-insert": "پرونده‌ای برای درج انتخاب کنید",
+			"action-insert-text-into-file": "درجِ متن درونِ {{filename}}",
+			"action-insert-link-into-file": "درجِ پیوند درونِ {{filename}}",
+			"msg-importing": "دارد وارد می‌شود...",
+			"msg-import-success": "وارد کردن موفق بود",
+			"msg-failed-to-import-file": "وارد کردنِ پرونده به مشکل خورد {{filename}}",
+			"msg-back-again-to-exit": "برای خروج دوباره برگشت را بزنید."
 		},
 		"help-screen": {
 			"label-official-help-site": "Official help site",
