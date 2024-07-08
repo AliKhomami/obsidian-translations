@@ -1371,9 +1371,9 @@
 			"desc": "شمارِ واژه‌ها را در نوارِ وضعیت نشان می‌دهد."
 		},
 		"slides": {
-			"name": "Slides",
-			"desc": "Present from Markdown. Use \"---\" to separate slides.",
-			"action-start": "Start presentation"
+			"name": "نمابرگ‌ساز",
+			"desc": "از پروندهٔ مارک‌داون ارائه دهید. برای جدا کردنِ نمابرگ‌ها از \"---\" استفاده کنید.",
+			"action-start": "آغازِ ارائه"
 		},
 		"audio-recorder": {
 			"name": "Audio recorder",
