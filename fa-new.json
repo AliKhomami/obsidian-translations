@@ -439,64 +439,64 @@
 	},
 	"editor": {
 		"search": {
-			"placeholder-find": "Find",
-			"placeholder-replace": "Replace",
-			"label-exit-search": "Exit search",
-			"label-next": "Next",
-			"label-previous": "Prev",
-			"label-find-all": "Find all",
-			"label-replace": "Replace",
-			"label-replace-all": "Replace all"
+			"placeholder-find": "یافتن",
+			"placeholder-replace": "جایگزین کردن",
+			"label-exit-search": "خروج از جست‌وجو",
+			"label-next": "بعدی",
+			"label-previous": "قبلی",
+			"label-find-all": "یافتنِ همه",
+			"label-replace": "جایگزین کردن",
+			"label-replace-all": "جایگزین کردنِ همه"
 		},
 		"link-suggestion": {
-			"label-type-hash": "Type #",
-			"label-link-heading": "to link heading",
-			"label-type-block": "Type ^",
-			"label-link-block": "to link blocks",
-			"label-type-pipe": "Type |",
-			"label-change-display-text": "to change display text",
-			"label-no-alias": "Display text",
-			"label-no-heading": "Heading",
-			"label-no-match-found": "No match found",
-			"label-image-size": "Image size: {{size}}px wide",
-			"label-accept": "to accept"
+			"label-type-hash": "بنویسید #",
+			"label-link-heading": "برای پیوند زدنِ سرفصل",
+			"label-type-block": "بنویسید ^",
+			"label-link-block": "برای پیوند زدنِ بلوک",
+			"label-type-pipe": "بنویسید |",
+			"label-change-display-text": "برای تغییرِ متنِ نمایشی",
+			"label-no-alias": "نمایشِ متن",
+			"label-no-heading": "سرفصل",
+			"label-no-match-found": "نتیجه‌ای پیدا نشد",
+			"label-image-size": "اندازهٔ عکس: داری {{size}} پیکسل طول",
+			"label-accept": "برای پذیرفتن"
 		},
 		"spellcheck": {
-			"no-suggestion": "No suggestions...",
-			"add-to-dictionary": "Add to dictionary"
+			"no-suggestion": "پیشنهادی نیست...",
+			"add-to-dictionary": "افزودن به فرهنگِ املایی"
 		},
 		"menu": {
-			"edit-link": "Edit link",
-			"edit-tag": "Edit tag",
-			"label-edit-block": "Edit this block"
+			"edit-link": "ویرایشِ پیوند",
+			"edit-tag": "ویرایشِ برچسب",
+			"label-edit-block": "ویرایشِ این بلوک"
 		},
 		"heading-suggestion": {
-			"label-no-heading": "No heading",
-			"label-heading-level": "Heading {{level}}"
+			"label-no-heading": "بی‌سرفصل",
+			"label-heading-level": "سرفصلِ {{level}}"
 		},
 		"print-modal": {
-			"title": "Export to PDF",
-			"caption": "Export \"{{filename}}\" to PDF with the setting below.",
-			"setting-page-size": "Page size",
+			"title": "خروجی به‌صورتِ پی‌دی‌اف",
+			"caption": "خروجی گرفتنِ \"{{filename}}\" به‌صورتِ پی‌دی‌اف با تنظیماتِ زیر.",
+			"setting-page-size": "اندازهٔ صفحه",
 			"setting-page-size-a3": "A3",
 			"setting-page-size-a4": "A4",
 			"setting-page-size-a5": "A5",
 			"setting-page-size-legal": "Legal",
 			"setting-page-size-letter": "Letter",
 			"setting-page-size-tabloid": "Tabloid",
-			"setting-include-file-name": "Include file name as title",
-			"setting-landscape": "Landscape",
-			"setting-margin": "Margin",
-			"setting-margin-default": "Default",
-			"setting-margin-minimal": "Minimal",
-			"setting-margin-none": "None",
-			"setting-downscale-percent": "Downscale percent",
-			"button-export-to-pdf": "Export to PDF"
+			"setting-include-file-name": "لحاظ کردنِ نامِ پرونده را به‌عنوانِ عنوان",
+			"setting-landscape": "افقی",
+			"setting-margin": "حاشیه",
+			"setting-margin-default": "پیش‌فرض",
+			"setting-margin-minimal": "کمینه",
+			"setting-margin-none": "بی‌حاشیه",
+			"setting-downscale-percent": "درصدِ کاهشِ مقیاس",
+			"button-export-to-pdf": "خروجی به‌صورتِ پی‌دی‌اف"
 		},
 		"link-popover": {
-			"tooltip-follow-link": "Follow link",
-			"tooltip-open-link": "Open link",
-			"tooltip-search-tag": "Search tag"
+			"tooltip-follow-link": "پی گرفتنِ پیوند",
+			"tooltip-open-link": "گشودنِ پیوند",
+			"tooltip-search-tag": "جست‌وجوی برچسب"
 		}
 	},
 	"interface": {
@@ -978,8 +978,8 @@
 		},
 		"search": {
 "name": "جست‌وجو",
-			"desc": "جست‌وجوی کلیدواژه‌ها در همه‌ی یادداشت‌ها",
-			"action-open-search": "جست‌وجو در همه‌ی پرونده‌ها",
+			"desc": "جست‌وجوی کلیدواژه‌ها در همهٔ یادداشت‌ها",
+			"action-open-search": "جست‌وجو در همهٔ پرونده‌ها",
 			"label-collapse-results": "جمع کردنِ نتایج",
 			"label-match-case": "هم‌خوانیِ کامل",
 			"label-explain-search-term": "توضیح دادنِ متنِ جست‌وجوشده",
@@ -989,7 +989,7 @@
 			"label-toggle-search-settings": "تنظیماتِ جست‌وجو",
 			"prompt-start-search": "تایپ برای آغازِ جست‌وجو...",
 			"label-match-text": "هم‌خوانی با متنِ: ",
-			"label-match-regex": "هم‌خوانی با عبارتِ باقاعده‌ی: ",
+			"label-match-regex": "هم‌خوانی با عبارتِ باقاعدهٔ: ",
 			"label-match-exact-text": "دقیقاً حاویِ متنِ: ",
 			"label-match-greater-than": "بیش‌تر از: ",
 			"label-match-less-than": "کم‌تر از: ",
@@ -997,31 +997,31 @@
 			"label-match-false": "غلط است",
 			"label-match-empty": "خالی است",
 			"label-match-property": "حاویِ ویژگیِ:",
-			"label-match-all": "هم‌خوانی با همه‌ی: ",
+			"label-match-all": "هم‌خوانی با همهٔ: ",
 			"label-match-any": "هم‌خوانی با هرکدام از:: ",
 			"label-excluding": "به‌استثنای: ",
 			"label-case-sensitive": "حسّاس به بزرگ‌و‌کوچکی حرف",
 			"label-case-insensitive": "بی‌تفاوت به بزرگ‌و‌کوچکی حرف",
-			"label-match-file-path": "هم‌خوانی با مسیرِ پرونده‌ی: ",
-			"label-match-file-name": "هم‌خوانی با نامِ پرونده‌ی: ",
-			"label-match-content": "هم‌خوانی با محتوای پرونده‌ی: ",
-			"label-match-task": "هم‌خوانی با وظیفه‌ی: ",
-			"label-match-task-todo": "هم‌خوانی با وظیفه‌ی (انجام‌شودِ): ",
-			"label-match-task-done": "هم‌خوانی با وظیفه‌ی (انجام‌شده‌ی):",
+			"label-match-file-path": "هم‌خوانی با مسیرِ پروندهٔ: ",
+			"label-match-file-name": "هم‌خوانی با نامِ پروندهٔ: ",
+			"label-match-content": "هم‌خوانی با محتوای پروندهٔ: ",
+			"label-match-task": "هم‌خوانی با وظیفهٔ: ",
+			"label-match-task-todo": "هم‌خوانی با وظیفهٔ (انجام‌شودِ): ",
+			"label-match-task-done": "هم‌خوانی با وظیفهٔ (انجام‌شدهٔ):",
 			"label-match-line": "هم‌خوانی با سطرِ: ",
 			"label-match-block": "هم‌خوانی با بلوکِ: ",
 			"label-match-section": "هم‌خوانی با بخشِ: ",
 			"label-match-tag": "هم‌خوانی با برچسبِ: ",
 			"label-no-matches": "نتیجه‌ای یافت نشد.",
-			"matches-with-count": "... و {{count}} نتیجه‌ی دیگر.",
-			"matches-with-count_plural": "... و {{count}} نتیجه‌ی دیگر.",
+			"matches-with-count": "... و {{count}} نتیجهٔ دیگر.",
+			"matches-with-count_plural": "... و {{count}} نتیجهٔ دیگر.",
 			"label-copy-search-results": "رونوشتِ نتایجِ جست‌وجو",
 			"button-copy-results": "رونوشتِ نتایج",
 			"msg-successfully-copied": "نتایج در حافظه رونوشت شدند.",
 			"option-show-path": "نمایشِ مسیر",
 			"option-show-path-description": "به‌جایِ نامِ پرونده، مسیرِ کاملش را نمایش می‌دهد.",
 			"option-link-style": "سبْکِ پیوند",
-			"option-link-style-description": "در صورتِ تمایل، می‌تواند هر نتیجه‌ی پرونده را به‌صورتِ پیوند نشان دهد.",
+			"option-link-style-description": "در صورتِ تمایل، می‌تواند هر نتیجهٔ پرونده را به‌صورتِ پیوند نشان دهد.",
 			"option-choice-link-style-none": "هیچ‌کدام",
 			"option-choice-link-style-wikilink": "ویکی‌پیوند",
 			"option-choice-link-style-markdown-link": "پیوندِ مارک‌داونی",
@@ -1037,7 +1037,7 @@
 			"label-tags-group": "برچسب‌ها",
 			"tooltip-read-more": "اطلاعاتِ بیشتر",
 			"label-history": "تاریخچه",
-			"tooltip-clear-history": "پاکسازیِ تاریخچه‌ی جست‌وجو",
+			"tooltip-clear-history": "پاکسازیِ تاریخچهٔ جست‌وجو",
 			"label-path-option-description": "هم‌خوانی دادنِ مسیرِ پرونده",
 			"label-file-name-option-description": "هم‌خوانی دادنِ نامِ پرونده",
 			"label-tag-option-description": "جست‌وجوی برچسب‌ها",
@@ -1054,7 +1054,7 @@
 			"action-open": "گشودنِ پرشِ سریع",
 			"instruction-navigate": "برای جابه‌جایی",
 			"instruction-open": "برای گشودن",
-			"instruction-open-in-new-tab": "برای گشودن در زبانه‌ی نو",
+			"instruction-open-in-new-tab": "برای گشودن در زبانهٔ نو",
 			"instruction-open-to-the-right": "برای گشودن به سمتِ راست",
 			"instruction-create": "برای ساختن",
 			"instruction-dismiss": "برای بستن",
@@ -1068,7 +1068,7 @@
 			"option-show-attachments": "نمایشِ پیوست‌ها",
 			"option-show-attachments-desc": "نمایشِ پیوست‌هایی مانندِ فیلم، تصویر، و پی‌دی‌اف.",
 			"option-show-all-file-types": "نمایشِ همه‌جور پرونده",
-			"option-show-all-file-types-desc": "نمایشِ همه‌ی پرونده‌ها حتا آن‌هایی که اُبسیدین نمی‌تواند باز کند. این پرونده‌ها را برنامه‌ی پیش‌فرض‌شان باز خواهد کرد."
+			"option-show-all-file-types-desc": "نمایشِ همهٔ پرونده‌ها حتا آن‌هایی که اُبسیدین نمی‌تواند باز کند. این پرونده‌ها را برنامهٔ پیش‌فرض‌شان باز خواهد کرد."
 		},
 		"graph-view": {
 			"name": "نمای نمودار",
@@ -1094,12 +1094,12 @@
 			"option-show-existing-files-only": "فقط پرونده‌های موجود",
 			"option-show-existing-files-only-description": "وقتی تیک‌دار باشد، پیوندها به پرونده‌ها ناموجود نشان داده نمی‌شوند.",
 			"option-show-orphans": "یتیم‌ها",
-			"option-show-orphans-description": "پرونده‌هایی را نشان می‌دهد که به هیچ پرونده‌ی دیگری پیوند نشده‌اند.",
+			"option-show-orphans-description": "پرونده‌هایی را نشان می‌دهد که به هیچ پروندهٔ دیگری پیوند نشده‌اند.",
 			"label-display": "نمایش",
 			"option-show-arrows": "پیکان‌ها",
 			"option-show-arrows-description": "نمایشِ پیکان‌ها هنگامِ زومِ نزدیک",
-			"option-text-fade": "آستانه‌ی محوشدگیِ متن",
-			"option-node-size": "اندازه‌ی گره",
+			"option-text-fade": "آستانهٔ محوشدگیِ متن",
+			"option-node-size": "اندازهٔ گره",
 			"option-link-thickness": "کلفتیِ پیوند",
 			"label-forces": "نیروها",
 			"option-center-force": "نیروی مرکز",
@@ -1152,7 +1152,7 @@
 		"tag-pane": {
 			"name": "برگِ برچسب",
 			"short-name": "برچسب‌ها",
-			"desc": "نمایشِ همه‌ی برچسب‌ها و اینکه چندبار استفاده شده‌اند.",
+			"desc": "نمایشِ همهٔ برچسب‌ها و اینکه چندبار استفاده شده‌اند.",
 			"action-show": "نمایشِ برگِ برچسب",
 			"label-no-tags": "برچسبی یافت نشد.",
 			"label-sort-by-name-a-to-z": "نامِ برچسب (به ترتیبِ الفبا)",
@@ -1279,8 +1279,8 @@
 			"label-no-commands": ".فرمانی یافت نشد",
 			"prompt-type-command": "یک فرمان بنویسید...",
 			"label-pinned-commands": "فرمان‌های سنجاق‌شده",
-			"option-add-new-pin": "فرمانِ سنجاق‌شده‌ی نو",
-			"option-add-new-pin-description": "اگر چیزی جست‌وجو نکرده باشید، فرمان‌های سنجاق‌شده بالای همه‌ی فرمان‌های دیگر نمایش داده می‌شود."
+			"option-add-new-pin": "فرمانِ سنجاق‌شدهٔ نو",
+			"option-add-new-pin-description": "اگر چیزی جست‌وجو نکرده باشید، فرمان‌های سنجاق‌شده بالای همهٔ فرمان‌های دیگر نمایش داده می‌شود."
 		},
 		"markdown-format-importer": {
 			"name": "Markdown format importer",
@@ -1382,13 +1382,13 @@
 			"action-stop": "پایانِ ضبط کردنِ صوت",
 			"action-toggle": "آغاز/پایانِ ضبط کردنِ صوت",
 			"msg-access-denied": "دسترسی به میکروفون منع شد، از برگِ تنظیمات فعّالش فرمایید.",
-			"msg-pending-grant": "برای آغازِ ضبط، لطفاً اجازه‌ی استفاده از میکروفون را بدهید.",
+			"msg-pending-grant": "برای آغازِ ضبط، لطفاً اجازهٔ استفاده از میکروفون را بدهید.",
 			"msg-no-microphone": "میکروفونی وصل نیست."
 		},
 		"open-with-default-app": {
-			"name": "گشودن در برنامه‌ی پیش‌فرض",
-			"desc": "دکمه‌ای برای باز کردنِ پروندهٔ فعّال در برنامه‌ی پیش‌فرض می‌افزاید.",
-			"action-open-file": "گشودن در برنامه‌ی پیش‌فرض",
+			"name": "گشودن در برنامهٔ پیش‌فرض",
+			"desc": "دکمه‌ای برای باز کردنِ پروندهٔ فعّال در برنامهٔ پیش‌فرض می‌افزاید.",
+			"action-open-file": "گشودن در برنامهٔ پیش‌فرض",
 			"action-open-file-mobile": "هم‌رسانی",
 			"action-show-in-folder": "نمایش در پوشه",
 			"action-show-in-folder-mac": "نشان دادن در پوشه"
@@ -1418,12 +1418,12 @@
 			"prompt-type-template": "Type name of a template..."
 		},
 		"translucency": {
-			"name": "پنجره‌ی شفاف",
+			"name": "پنجرهٔ شفاف",
 			"desc": "برای بهبودِ حسِ عمق، جلوهٔ شفافیت را فعّال کنید. این جلوه با پوستهٔ تاریک بهتر کار می‌کند. در لینوکس پشتیبانی نمی‌شود."
 		},
 		"slash-command": {
 			"name": "فرمان‌های کج‌خط",
-			"desc": "قابلیتِ باز کردنِ فرمان‌ها را با نوشتنِ نشانه‌ی خطِ مورّب فعّال می‌کند."
+			"desc": "قابلیتِ باز کردنِ فرمان‌ها را با نوشتنِ نشانهٔ خطِ مورّب فعّال می‌کند."
 		},
 		"editor-status": {
 			"name": "وضعیتِ ویرایشگر",
@@ -1627,7 +1627,7 @@
 			"action-manage-layouts": "مدیریتِ چیدمان‌های فضای کار",
 			"action-save": "ذخیرهٔ چیدمان",
 			"action-save-and-load-layout": "ذخیره و بارگذاریِ چیدمانی دیگر",
-			"placeholder-save-current-layout-as": "ذخیره‌ی چیدمانِ کنونی به‌شکلِ...",
+			"placeholder-save-current-layout-as": "ذخیرهٔ چیدمانِ کنونی به‌شکلِ...",
 			"button-save": "ذخیره",
 			"button-load": "بارگیری",
 			"tooltip-delete-layout": "حذفِ چیدمان",
