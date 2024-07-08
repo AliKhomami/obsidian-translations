@@ -1376,14 +1376,14 @@
 			"action-start": "آغازِ ارائه"
 		},
 		"audio-recorder": {
-			"name": "Audio recorder",
-			"desc": "Record audio and save as attachment.",
-			"action-start": "Start recording audio",
-			"action-stop": "Stop recording audio",
-			"action-toggle": "Start/stop recording",
-			"msg-access-denied": "Microphone access was denied, please enable it from the preference pane.",
-			"msg-pending-grant": "Please grant microphone permission to start recording.",
-			"msg-no-microphone": "No microphone is connected."
+			"name": "ضبطِ صوت",
+			"desc": "ضبطِ صوت و ذخیره‌اش به‌صورتِ پیوست.",
+			"action-start": "آغازِ ضبط کردنِ صوت",
+			"action-stop": "پایانِ ضبط کردنِ صوت",
+			"action-toggle": "آغاز/پایانِ ضبط کردنِ صوت",
+			"msg-access-denied": "دسترسی به میکروفون منع شد، از برگِ تنظیمات فعّالش فرمایید.",
+			"msg-pending-grant": "برای آغازِ ضبط، لطفاً اجازه‌ی استفاده از میکروفون را بدهید.",
+			"msg-no-microphone": "میکروفونی وصل نیست."
 		},
 		"open-with-default-app": {
 			"name": "Open in default app",
