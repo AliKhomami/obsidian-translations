@@ -1367,8 +1367,8 @@
 			"label-no-headings": "سرفصلی یافت نشد."
 		},
 		"word-count": {
-			"name": "Word count",
-			"desc": "Show word count in the status bar."
+			"name": "واژه‌شمار",
+			"desc": "شمارِ واژه‌ها را در نوارِ وضعیت نشان می‌دهد."
 		},
 		"slides": {
 			"name": "Slides",
