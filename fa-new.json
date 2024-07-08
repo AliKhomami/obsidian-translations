@@ -1137,17 +1137,17 @@
 			"option-backlink-in-document-desc": "وقتی برگ‌های نو باز می‌شوند، پشت‌وندها را به‌طورِ پیش‌فرض در سند نشان می‌دهد."
 		},
 		"outgoing-links": {
-			"name": "Outgoing Links",
-			"desc": "Show outgoing links and detect unlinked mentions of other notes in the current note.",
-			"action-open": "Open outgoing links",
-			"action-show": "Show outgoing links pane",
-			"action-open-for-current": "Open outgoing links for the current file",
-			"tab-title": "Outgoing links from {{displayText}}",
-			"label-links": "Links",
-			"label-no-links": "No links found.",
-			"label-unlinked-mentions": "Unlinked mentions",
-			"tooltip-link-file": "Link this file",
-			"tooltip-not-created": "Not created yet"
+			"name": "پیوندهای برون‌رو",
+			"desc": "پیوندهای برون‌رو را نشان داده و یادکردهای پیوندنشدهٔ یادداشت‌های دیگر را تشخیص می‌دهد.",
+			"action-open": "گشودنِ پیوندهای برون‌رو",
+			"action-show": "نمایشِ برگِ پیوندهای برون‌رو",
+			"action-open-for-current": "گشودنِ پیوندهای برون‌رو برای همین پرونده",
+			"tab-title": "لینک‌های برون‌رو از {{displayText}}",
+			"label-links": "پیوندها",
+			"label-no-links": "پیوندی یافت نشد.",
+			"label-unlinked-mentions": "یادکردهای پیوندنشده",
+			"tooltip-link-file": "پیوند دادنِ این پرونده",
+			"tooltip-not-created": "هنوز ساخته نشده"
 		},
 		"tag-pane": {
 			"name": "Tag pane",
