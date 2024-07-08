@@ -1358,13 +1358,13 @@
 			"action-open": "گشودنِ یادداشتِ تصادفی"
 		},
 		"outline": {
-			"name": "Outline",
-			"desc": "Displays the outline of the current file or linked pane.",
-			"action-open": "Open outline",
-			"action-show": "Show outline pane",
-			"action-open-for-current": "Open outline of the current file",
-			"tab-title": "Outline of {{displayText}}",
-			"label-no-headings": "No headings found."
+			"name": "نمای کلّی",
+			"desc": "نمای کلَیِ همین پرونده یا برگِ پیوندشده را نمایش می‌دهد.",
+			"action-open": "گشودنِ نمای کلّی",
+			"action-show": "نمایشِ برگِ نمای کلّی",
+			"action-open-for-current": "گشودنِ نمای کلّیِ همین پرونده",
+			"tab-title": "نمای کلّیِ {{displayText}}",
+			"label-no-headings": "سرفصلی یافت نشد."
 		},
 		"word-count": {
 			"name": "Word count",
