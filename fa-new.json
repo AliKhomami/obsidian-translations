@@ -1418,19 +1418,19 @@
 			"prompt-type-template": "Type name of a template..."
 		},
 		"translucency": {
-			"name": "Translucent window",
-			"desc": "Turn on translucency effect to enhance a sense of depth. Best used with dark mode. Not supported on Linux."
+			"name": "پنجره‌ی شفاف",
+			"desc": "برای بهبودِ حسِ عمق، جلوهٔ شفافیت را فعّال کنید. این جلوه با پوستهٔ تاریک بهتر کار می‌کند. در لینوکس پشتیبانی نمی‌شود."
 		},
 		"slash-command": {
-			"name": "Slash commands",
-			"desc": "Enable the ability to trigger slash commands in the editor by typing the forward slash."
+			"name": "فرمان‌های کج‌خط",
+			"desc": "قابلیتِ باز کردنِ فرمان‌ها را با نوشتنِ نشانه‌ی خطِ مورّب فعّال می‌کند."
 		},
 		"editor-status": {
-			"name": "Editor status",
-			"desc": "Adds a status bar item to show and change the current editor mode.",
-			"read": "Reading",
-			"edit-source": "Source mode",
-			"edit-live-preview": "Live Preview"
+			"name": "وضعیتِ ویرایشگر",
+			"desc": "موردی به نوارِ وضعیت اضافه می‌کند که با آن می‌توان حالتِ کنونیِ ویرایشگر را دید و تغییر داد.",
+			"read": "خواندن",
+			"edit-source": "حالتِ منبع",
+			"edit-live-preview": "پیش‌نمایشِ زنده"
 		},
 		"publish": {
 			"name": "Publish",
