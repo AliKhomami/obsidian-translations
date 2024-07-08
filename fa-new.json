@@ -1150,18 +1150,18 @@
 			"tooltip-not-created": "هنوز ساخته نشده"
 		},
 		"tag-pane": {
-			"name": "Tag pane",
-			"short-name": "Tags",
-			"desc": "Displays all your tags along with their number of occurrences.",
-			"action-show": "Show tag pane",
-			"label-no-tags": "No tags found.",
-			"label-sort-by-name-a-to-z": "Tag name (A to Z)",
-			"label-sort-by-name-z-to-a": "Tag name (Z to A)",
-			"label-sort-by-frequency-high-to-low": "Frequency (high to low)",
-			"label-sort-by-frequency-low-to-high": "Frequency (low to high)",
-			"action-show-nested-tags": "Show nested tags",
-			"action-collapse-all": "Collapse all",
-			"action-expand-all": "Expand all"
+			"name": "برگِ برچسب",
+			"short-name": "برچسب‌ها",
+			"desc": "نمایشِ همه‌ی برچسب‌ها و اینکه چندبار استفاده شده‌اند.",
+			"action-show": "نمایشِ برگِ برچسب",
+			"label-no-tags": "برچسبی یافت نشد.",
+			"label-sort-by-name-a-to-z": "نامِ برچسب (به ترتیبِ الفبا)",
+			"label-sort-by-name-z-to-a": "نامِ برچسب (عکسِ ترتیبِ الفبا)",
+			"label-sort-by-frequency-high-to-low": "فراوانی (زیاد به کم)",
+			"label-sort-by-frequency-low-to-high": "فراوانی (کم به زیاد)",
+			"action-show-nested-tags": "نمایشِ برچسب‌های تودرتو",
+			"action-collapse-all": "جمع کردنِ همه",
+			"action-expand-all": "گستردنِ همه"
 		},
 		"properties": {
 			"name": "Properties view",
