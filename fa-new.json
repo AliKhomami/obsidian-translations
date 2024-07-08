@@ -1352,10 +1352,10 @@
 			"msg-failed-to-generate": "Failed to generate a unique note with the format \"{{format}}"
 		},
 		"random-note": {
-			"name": "Random note",
-			"desc": "Opens a random note. Useful for reviewing and discovering.",
-			"short-name": "Random",
-			"action-open": "Open random note"
+			"name": "یادداشتِ تصادفی",
+			"desc": "تصادفاً یک یادداشت را باز می‌کند. به کارِ مرور و کشف می‌آید.",
+			"short-name": "تصادفی",
+			"action-open": "گشودنِ یادداشتِ تصادفی"
 		},
 		"outline": {
 			"name": "Outline",
