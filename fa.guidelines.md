@@ -113,3 +113,6 @@ release note: تغییرات‌نامه
 ribbon: روبان
 undo: واگرد
 redo: ازنو
+zoom: زوم
+zoom in: زوم‌پیش
+zoom out: زوم‌پس
